@@ -1,0 +1,62 @@
+body{
+    background-image: url(BG.JPEG);
+    background-size: 100% auto;
+    background-position: 0 20%;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    font-family: 'Montserrat';
+}
+h1{
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    margin: 50px;
+    text-shadow: 1px 1px #292929;
+}
+button{
+    font-weight: 500;
+    width: 222px;
+    display: inline;
+    border: none;
+    color: #292929;
+}
+.signInBox{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    width: 450px;
+    background-color:white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.signinStudent{
+    background-color: white;
+    font-size: 18px;
+    font-weight: 600;
+    padding:15.6px;
+}
+.content{
+    padding: 50px;
+    text-align: center;
+}
+input{
+    border-bottom: 1px solid #000;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    font-size: 18px;
+    width: 350px;
+}
+.forgetPass{
+    text-decoration: none;
+    color: #292929;
+}
+.login{
+    width: 200px;
+    font-size: 18px;
+    padding:10px;
+    color: #292929;
+}
+.login:hover{
+    background-color: #d8d8d8;
+}
